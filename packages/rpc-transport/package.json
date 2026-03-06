@@ -71,7 +71,7 @@
         "agadoo": "^3.0.0",
         "build-scripts": "workspace:*",
         "eslint": "^8.45.0",
-        "eslint-plugin-jest": "^27.2.3",
+        "eslint-plugin-jest": "^29.15.0",
         "eslint-plugin-sort-keys-fix": "^1.1.2",
         "fetch-impl": "workspace:*",
         "jest": "^29.6.1",
