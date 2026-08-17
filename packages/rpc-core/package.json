@@ -65,7 +65,7 @@
         "@metaplex-foundation/umi-serializers": "^0.8.9"
     },
     "devDependencies": {
-        "@solana/eslint-config-solana": "^1.0.2",
+        "@solana/eslint-config-solana": "^6.0.1",
         "@solana/addresses": "workspace:*",
         "@solana/rpc-transport": "workspace:*",
         "@solana/transactions": "workspace:*",
